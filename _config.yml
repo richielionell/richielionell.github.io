@@ -1,0 +1,33 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
+
+# Setup
+title:               Richie Lionell
+url:                 http://richielionell.github.io/
+baseurl:             ''
+paginate:            1
+
+
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+# About/contact
+author:
+  name:              Richie Lionell
+  url:               https://twitter.com/richielionell
+  email:             somebody@somebody.com
+
+# Custom vars
+version:             1.0.0
+github:
+  repo:              https://github.com/richielionell/richielionell.github.io
+
+# This is the list of pages to incldue in the header of the website.
+pages_list:       {'About':'/about','Archive':'/archive','Feed':'/atom.xml'}
