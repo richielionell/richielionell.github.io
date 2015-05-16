@@ -4,7 +4,7 @@ title: About
 ---
 
 <p class="message">
-  A sinner saved by the grace of Jesus Christ.
+  A sinner saved by the grace of the Lord & Saviour Jesus Christ.
 </p>
 
 
