@@ -3,7 +3,7 @@ layout: post
 title: Github Pages, Jekyll, Poole
 ---
 
-Two years have rolled by without a post to my [blog](http://scriptogr.am/richie) at [Scriptogram](http://scriptogr.am/). Scriptogram is (was !) fun. The ease of use (markdown & dropbox) & the minimalism hooks you to it. Its not easy getting away from scriptogram - I dont want to and will not kill it. But the urge to experiment has been too much and here I come - with a lot of skepticism & fear.
+Two years have rolled by without a post to my [blog](http://scriptogr.am/richie) at [Scriptogram](http://scriptogr.am/). Scriptogram is (was !) fun. The ease of use (markdown &amp; dropbox) &amp; the minimalism hooks you to it. Its not easy getting away from scriptogram - I dont want to &amp; will not kill it. But the urge to experiment has been too much &amp; here I come - with a lot of skepticism &amp; fear.
 
 The desire to take the Github leap was inspired by these posts;
 
@@ -34,7 +34,7 @@ And then we run into ...
     The 'fast-stemmer' native gem requires installed build tools.
 
     Please update your PATH to include build tools or download the DevKit
-    from 'http://rubyinstaller.org/downloads' and follow the instructions
+    from 'http://rubyinstaller.org/downloads' &amp; follow the instructions
     at 'http://github.com/oneclick/rubyinstaller/wiki/Development-Kit'
 
 So I add "C:/DevKit" to the PATH.
@@ -50,7 +50,7 @@ Okay I missed this. Should have done these before trying to install Jekyll;
 `[INFO] found RubyInstaller v1.9.3 at C:/Ruby193`
 `[INFO] found RubyInstaller v2.1.6 at C:/Ruby21`
     
-`Initialization complete! Please review and modify the auto-generated`
+`Initialization complete! Please review &amp; modify the auto-generated`
 `'config.yml' file to ensure it contains the root directories to all`
 `of the installed Rubies you want enhanced by the DevKit.``
 
@@ -61,7 +61,7 @@ Okay.. now run
 But now we run into ..
 
     [ERROR] Unable to find RubyGems in site_ruby or core Ruby. Please
-    install RubyGems and rerun 'ruby dk.rb install'.
+    install RubyGems &amp; rerun 'ruby dk.rb install'.
 
 
 [https://github.com/rubygems/rubygems/issues/630](https://github.com/rubygems/rubygems/issues/630) saves me.
@@ -84,12 +84,12 @@ Now lets try `gem install jekyll`
 Yesssss !!!!!! Woohoo !!!
 
 
-Now I go through the Jekyll docs to set up the blog. Uh oh ... A huge lump in my throat. Its back to some loafing around in google and then you come across a precious jewel called **poole**. Poole saves you the trouble of doing the blog setup from scratch. 
+Now I go through the Jekyll docs to set up the blog. Uh oh ... A huge lump in my throat. Its back to some loafing around in google &amp; then you come across a precious jewel called **poole**. Poole saves you the trouble of doing the blog setup from scratch. 
 
-- [How I Created a Beautiful and Minimal Blog Using Jekyll, Github Pages, and poole](http://joshualande.com/jekyll-github-pages-poole/)
+- [How I Created a Beautiful &amp; Minimal Blog Using Jekyll, Github Pages, &amp; poole](http://joshual&amp;e.com/jekyll-github-pages-poole/)
 - [Poole](http://demo.getpoole.com/)
 
-I download the repo as a zipped file from [github - poole](https://github.com/poole/poole) and copy the files to my github.io repo.
+I download the repo as a zipped file from [github - poole](https://github.com/poole/poole) &amp; copy the files to my github.io repo.
 
 Fingers crossed ...
 
@@ -102,5 +102,5 @@ Fingers crossed ...
 
 Brilliant !!!
 
-Time to transfer my posts from Scriptogram and launch http://richielionell.github.io/
+Time to transfer my posts from Scriptogram &amp; launch http://richielionell.github.io/
 

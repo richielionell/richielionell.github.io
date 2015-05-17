@@ -3,7 +3,7 @@ layout: post
 title: Convert sas7bdat to CSV
 ---
 
-Had to convert a 450mb odd sas7bdat file to csv the other day & came across two methods that worked without a hitch.
+Had to convert a 450mb odd sas7bdat file to csv the other day and came across two methods that worked without a hitch.
 
 Method 1:
 

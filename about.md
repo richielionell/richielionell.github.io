@@ -4,12 +4,12 @@ title: About
 ---
 
 <p class="message">
-  A sinner saved by the grace of the Lord & Saviour Jesus Christ.
+  A sinner saved by the grace of the Lord &amp; Saviour Jesus Christ.
 </p>
 
-
-- I create Data Stories using Python ,Excel & Powerpoint
+- [@richielionell](https://twitter.com/richielionell)
 - Work with [Gramener](https://gramener.com/)
+- I create Data Stories using Python ,Excel &amp; Powerpoint
 - Cricket Writer
-- Love Country Gospel, Hymns
-- Literature, Theatre, Asterix & Obelix, Calvin & Hobbes ... you get the idea
+- Country Gospel music, Hymns
+- Literature, Theatre, Asterix &amp; Obelix, Calvin &amp; Hobbes ... you get the idea

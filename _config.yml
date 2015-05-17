@@ -22,7 +22,6 @@ sass:
 author:
   name:              Richie Lionell
   url:               https://twitter.com/richielionell
-  email:             somebody@somebody.com
 
 # Custom vars
 version:             1.0.0

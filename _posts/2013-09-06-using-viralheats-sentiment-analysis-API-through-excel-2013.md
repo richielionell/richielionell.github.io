@@ -3,7 +3,7 @@ layout: post
 title: Using Viralheat's Sentiment Analysis API through Excel 2013
 ---
 
-Microsoft's Excel 2013 comes with some interesting stuff like [PowerMap](http://www.microsoft.com/en-in/download/details.aspx?id=38395), [PowerView](http://cwebbbi.wordpress.com/2012/07/17/building-a-simple-bi-solution-in-excel-2013-part-1/) & [Apps](http://office.microsoft.com/en-us/store/apps-for-excel-FX102804981.aspx).
+Microsoft's Excel 2013 comes with some interesting stuff like [PowerMap](http://www.microsoft.com/en-in/download/details.aspx?id=38395), [PowerView](http://cwebbbi.wordpress.com/2012/07/17/building-a-simple-bi-solution-in-excel-2013-part-1/) and [Apps](http://office.microsoft.com/en-us/store/apps-for-excel-FX102804981.aspx).
 
 But in this post I'd like to focus on three new functions that help extract data from webservices.
 
@@ -18,7 +18,7 @@ The `url` that is passed would look like this;
 
     https://viralheat.com/api/sentiment/review.xml?text=happy&api_key=yourapikey
 
-`review.xml` says that the output would be returned in the xml format, `text=` holds the text for which we require the sentiment analysis & `api_key` holds your viralheat api key.
+`review.xml` says that the output would be returned in the xml format, `text=` holds the text for which we require the sentiment analysis and `api_key` holds your viralheat api key.
 
 Now let's open an excel 2013 workbook and in cell B5 type the following formula;
 
@@ -52,7 +52,7 @@ Interacting with APIs has become easy now with these Excel 2013 functions.
 
 That is cool! How about trying a 'sentiment analysis' of Robert Frost's 'The Road Not Taken'?
 
-Now try using the `webservice` & `filterxml` functions together in the same cell like this;
+Now try using the `webservice` and `filterxml` functions together in the same cell like this;
 
 ![](http://db.tt/N8E6oOpY)
 

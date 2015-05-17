@@ -5,7 +5,7 @@ title: I'm learning Python!!!
 
 I had washed my hands off programming 10 years ago. Can also be read as -"*programming washed its hands off me 10 years ago*" - we'll debate this on a rainy day. Recently the idea resurfaced and miracle of miracles, I've been resuscitated!
 
-I'm learning Python!!! Ahhh I know.. I can hear you purists mocking already.. But give the man a break wont you. I've at least learnt to make use of well-written-geek-code. I'm so happy to know you could survive just knowing variables, for & while loops, lists, dictionaries and tuples.
+I'm learning Python!!! Ahhh I know.. I can hear you purists mocking already.. But give the man a break wont you. I've at least learnt to make use of well-written-geek-code. I'm so happy to know you could survive just knowing variables, for and while loops, lists, dictionaries and tuples.
 
 The resources I learned from played a key role in me getting to like what I was learning. I found the following useful (by order of usage):
 
