@@ -13,3 +13,4 @@ title: About
 - Cricket Writer
 - Country Gospel music, Hymns
 - Literature, Theatre, Asterix &amp; Obelix, Calvin &amp; Hobbes ... you get the idea
+- One foot in the technology world and another in the art world
