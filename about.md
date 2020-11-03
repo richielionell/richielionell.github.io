@@ -9,7 +9,7 @@ title: About
 
 - [@richielionell](https://twitter.com/richielionell)
 - Work with [Gramener](https://gramener.com/)
-- I create Data Stories using Python ,Excel &amp; Powerpoint
+- I create Data Stories using Python , D3.js, Excel &amp; Powerpoint
 - Cricket Writer
 - Country Gospel music, Hymns
 - Literature, Theatre, Asterix &amp; Obelix, Calvin &amp; Hobbes ... you get the idea
