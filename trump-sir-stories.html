@@ -46,7 +46,7 @@ title: Home
           <p class="text-center py-3"> President Trump is known to tell stories where he refers to folks addressing him as <em>Sir</em>. I got curious & set out on a <em>Sir</em> story hunt using speech & interview transcripts. The result is this searchable database* of Trump's <em>Sir</em> stories.</p>
           <p class="small">* Last updated on 30 October 2020 </p>
 
-          <img src="images/trump-sir.png" class="img-fluid" alt="Responsive image">
+          <img src="../images/trump-sir.png" class="img-fluid" alt="Responsive image">
           <span class="small">Comic strip by Ramya Mylavarapu</span>
           <p class="text-center py-3"> Have you heard of the <span class="storytypes" data-word="ammunition">"We have no ammunitions <em>Sir</em>"</span> story? Or how about <span class="storytypes" data-word="winning">"Please, <em>sir</em>. Please stop winning." ?</span> There are also stories about <span class="storytypes" data-word="general">generals</span>, <span class="storytypes" data-word="senator">senators</span>, <span class="storytypes" data-word="governor">governors</span> & <span class="storytypes" data-word="farmer">farmers</span>. Use the search bar to look for more interesting <em>Sir</em> &nbsp;tales from President Trump.</p>
         </section>
@@ -93,7 +93,7 @@ title: Home
     <script>
         // $(document).ready( function () {
        var myArray;
-       d3.csv("sir-data.csv").then(function(myData) {
+       d3.csv("../sir-data.csv").then(function(myData) {
         myArray = [];
         myData.forEach(function(d, i){
         	if(d.description != ""){
