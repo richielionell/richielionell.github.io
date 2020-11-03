@@ -1,0 +1,152 @@
+/*
+ * Globals
+ */
+
+/* Links */
+
+html,
+body {
+  /*padding-top: 0rem;*/
+  height: 100%;
+  /*font-size: 1.0rem;*/
+  font-family: 'Noto Serif', sans-serif;
+  background-color: #FFFFFF;
+}
+.highlight{background:blue;color:white;}
+mark{background:#F0B118;color:black;}
+div.dataTables_length {
+    padding-left: 2em;
+    }
+    div.dataTables_length,
+    div.dataTables_filter {
+        padding-top: 0.55em;
+    }
+table.fixedHeader-floating {
+  position: fixed !important;
+  background-color: white;
+}
+
+table.fixedHeader-floating.no-footer {
+  border-bottom-width: 0;
+}
+
+table.fixedHeader-locked {
+  position: absolute !important;
+  background-color: white;
+}
+
+@media print {
+  table.fixedHeader-floating {
+    display: none;
+  }
+}
+.block-filters, .block-factoids, .block-countries, .block-matches, .block-results {
+  padding: .5em .4em;
+}
+.fact, .storytypes { cursor: pointer; }
+.storytypes{
+  border-bottom: 2px dotted;
+  /*text-decoration:underline;*/
+  /*text-decoration-color:#377eb8;*/
+  border-color: #377eb8;
+}
+.abouttext{
+  font-size:0.55em;
+}
+
+a{
+  color: #5493ff;
+  /*text-decoration: none;
+  border-bottom: 1px blue dotted;*/
+}
+a:hover {
+  color: #5493ff;
+  text-decoration: none;
+  border: none;
+}
+#stuck {
+  position:fixed;
+  right: auto;
+  top:30;
+  /*margin-left: 30rem;*/
+}
+
+
+#scrolly {
+  position: relative;
+  /*background-color: #f3f3f3;*/
+  padding: 0rem;
+  /*margin-top: -5vh;*/
+}
+
+#intro {
+  max-width: 40rem;
+  margin: 1rem auto;
+  text-align: center;
+}
+
+.intro__hed {
+  font-size: 2.1rem;
+  margin: 2rem auto 0.5rem auto;
+}
+
+.intro__dek {
+  color: #8a8a8a;
+  font-size:1.2rem;
+}
+
+/*#intro {
+  margin-bottom: 0rem;
+}*/
+.fa{
+  text-decoration: none;
+}
+#outro {
+  /*height: 640px;*/
+  margin-top:1vh;
+}
+.axis text {
+  fill: none;
+}
+article {
+  position: relative;
+  padding: 100;
+  max-width: 25rem;
+  margin: 0 auto;
+  margin-left: 22.5rem;
+  margin-top:20vh;
+}
+
+
+@media (max-width: 600px) {
+  .scrolly {
+    margin-top: 10vh; }
+
+  article {
+    margin-top: 2vh;
+    margin: 0 auto;
+    max-width: 15rem;
+  }
+  #outro {
+  /*height: 640px;*/
+  margin-top:2vh;
+}
+}
+
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px)  { 
+  article {
+    margin-top: 2vh;
+    margin: 0 auto;
+    max-width: 20rem;
+    margin-left: 12.5rem;
+  }
+  #outro{
+    margin-top: 1vh;
+  }
+
+}
+/*
+ * Base structure
+ */

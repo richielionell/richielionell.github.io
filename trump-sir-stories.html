@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta property="article:author" content="https://www.linkedin.com/in/richielionell/" />
+  	<meta property="article:publisher" content="https://www.linkedin.com/in/richielionell/" />
+    <link rel="icon" href="../../favicon.ico">
+
+    <title>Trump's Sir Stories</title>
+
+    <!-- Bootstrap core CSS -->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Serif&display=swap" rel="stylesheet">
+    <!-- Custom styles for this template -->
+    <link rel="stylesheet" href="css/dataTables.min.css">
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <link href="css/sir-stories.css" rel="stylesheet">
+    <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@richielionell">
+  <meta property="og:title" content="Here's a searchable database of Trump's 'Sir' stories ">
+  <meta property="og:description" content="President Trump is known to tell stories where he refers to folks addressing him as Sir. I got curious & set out on a Sir story hunt. The result is this searchable database of Trump's Sir stories.">
+  <meta property="og:image" content="">
+  <meta name="twitter:image" content="">
+  <meta property="og:url" content="">
+  <meta name="twitter:title" content="Here's a searchable database of Trump's 'Sir' stories ">
+  <meta name="twitter:description" content="President Trump is known to tell stories where he refers to folks addressing him as Sir. I got curious & set out on a Sir story hunt. The result is this searchable database of Trump's Sir stories.">
+  <meta name="twitter:url" content=""/>
+
+  </head>
+
+  <body>
+
+    <div class="container">
+      <div class="row">
+        <div class="mx-auto text-center col-md-12 py-1 pb-3">
+          <section id="intro">
+          <h1 class="intro__hed"> The <mark><em>Sir</em></mark> Stories of <strong>President Trump</strong></h1>
+          <p class="text-center lead small">By <a href="https://www.linkedin.com/in/richielionell/" target="_blank">Richie Lionell</a></p>
+          <p class="text-center py-3"> President Trump is known to tell stories where he refers to folks addressing him as <em>Sir</em>. I got curious & set out on a <em>Sir</em> story hunt using speech & interview transcripts. The result is this searchable database* of Trump's <em>Sir</em> stories.</p>
+          <p class="small">* Last updated on 30 October 2020 </p>
+
+          <img src="images/trump-sir.png" class="img-fluid" alt="Responsive image">
+          <span class="small">Comic strip by Ramya Mylavarapu</span>
+          <p class="text-center py-3"> Have you heard of the <span class="storytypes" data-word="ammunition">"We have no ammunitions <em>Sir</em>"</span> story? Or how about <span class="storytypes" data-word="winning">"Please, <em>sir</em>. Please stop winning." ?</span> There are also stories about <span class="storytypes" data-word="general">generals</span>, <span class="storytypes" data-word="senator">senators</span>, <span class="storytypes" data-word="governor">governors</span> & <span class="storytypes" data-word="farmer">farmers</span>. Use the search bar to look for more interesting <em>Sir</em> &nbsp;tales from President Trump.</p>
+        </section>
+
+        
+        <section id='scrolly'>
+            <div class="table-responsive">
+              <span class="searchresults"></span>
+              <table id="table_id" class="display" cellspacing="0" width="100%">
+                    <thead>
+                      <tr>
+
+                          <th data-orderable="false">Story ID</th>
+                          <th data-orderable="false">Trump's <mark><em>Sir</em></mark> Story</th>
+                          <th data-orderable="false">Event</th>
+
+                      </tr>
+                    </thead>
+                    <tbody class="sirbody">
+
+                      
+                    </tbody>
+                  </table>
+
+            </div>
+            
+        </section>
+        </div>
+      </div>
+
+    </div><!-- /.container -->
+    </body>
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="js/jquery-3.2.1.slim.min.js"></script>
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/d3.v5.js"></script>
+    <script src="js/dataTables.min.js"></script>
+    <script src="js/mark.js"></script>
+    <script src="js/datatables.mark.js"></script>
+    <script src="js/dataTables.fixedHeader.js"></script>
+    <script>
+        // $(document).ready( function () {
+       var myArray;
+       d3.csv("sir-data.csv").then(function(myData) {
+        myArray = [];
+        myData.forEach(function(d, i){
+        	if(d.description != ""){
+        		myArray.push([i+1, d.text, d.description + '... <br>' + '<a href="' + d.link + '">' + 'Read the transcript' + '</a>']);
+        	}
+        	else{
+        		myArray.push([i+1, d.text, d.description]);
+        	}
+        	
+        })
+       
+       // console.log(myArray)
+       var tbody = d3.select(".sirbody")
+       rows = tbody
+                .selectAll("tr")
+                .data(myArray)
+                .enter()
+                .append("tr");
+       cells = rows.selectAll("td")
+            // each row has data associated; we get it and enter it for the cells.
+                .data(function(d) {
+                    // console.log(d);
+                    return d;
+                })
+                .enter()
+                .append("td")
+                .attr('class', 'trumptext')
+                .html(function(d,x) {
+                	// console.log(x)
+                	return d
+                    
+                });
+        // $('.trumptext').text(str).html();
+        var table = $('.display').DataTable({
+          responsive: true,
+          "dom": '<"top"ifl<"clear">>rt<"bottom"ip<"clear">>',
+            mark: {
+                element: 'span',
+                className: 'highlight'
+            },
+            "columnDefs": [
+              { "width": "50%", "targets": 1 }
+            ],
+            orderCellsTop: true,
+            fixedHeader: true,
+            pageLength: 10,
+            "fnDrawCallback": function( oSettings ) {
+              $(".trumptext").unmark("sir");
+              $(".trumptext").mark("sir");
+            },
+          });
+          table.search("ammunition").draw()
+          $(".trumptext").mark("sir");
+          $(".storytypes").on('click', function(){
+
+              table.search($(this).attr("data-word")).draw()
+
+          })
+          }).catch(function(error){
+	       if (error) {
+	            console.log(error);
+	        }
+    	})
+    </script>
+
+</html>
