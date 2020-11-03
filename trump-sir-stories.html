@@ -14,7 +14,7 @@ title: Home
     <title>Trump's Sir Stories</title>
 
     <!-- Bootstrap core CSS -->
-    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="../css/bootstrap.min.css">
     <link href="https://fonts.googleapis.com/css2?family=Noto+Serif&display=swap" rel="stylesheet">
     <!-- Custom styles for this template -->
     <link rel="stylesheet" href="../css/dataTables.min.css">
@@ -93,7 +93,7 @@ title: Home
     <script>
         // $(document).ready( function () {
        var myArray;
-       d3.csv("../sir-data.csv").then(function(myData) {
+       d3.csv("http://richielionell.github.io/trump-sir-stories/sir-data.csv").then(function(myData) {
         myArray = [];
         myData.forEach(function(d, i){
         	if(d.description != ""){
