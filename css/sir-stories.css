@@ -12,7 +12,11 @@ body {
   font-family: 'Noto Serif', sans-serif;
   background-color: #FFFFFF;
 }
-.highlight{background:blue;color:white;}
+.highlight{
+  background:blue;
+  color:white;
+  padding: 0rem;
+}
 mark{background:#F0B118;color:black;}
 div.dataTables_length {
     padding-left: 2em;
