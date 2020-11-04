@@ -18,13 +18,13 @@ title: About
 
 ### Data Visualization & Storytelling:
 
-1.  Contributions to [Comicgen - the open source comic creator](https://gramener.com/comicgen/)
+1.  Contributing to [Comicgen - the open source comic creator](https://gramener.com/comicgen/)
 1.  [Interactive comic of the Nashville Presidential Debate](https://gramener.com/presidential/nashville-debate)
 1.  [Interactive comic of the Cleveland Presidential Debate](https://gramener.com/presidential/cleveland-debate)
 1.  [Challenges women face](https://gramener.com/datacomics/wbl)
 1.  [My name is Akbar Khan](https://medium.com/@Gramener/my-name-is-akbar-khan-4b43799240d4)
 1.  [Words - a comic dictionary](https://gramener.com/words/)
-1.  [World Bank: Innovation, Tech & Entrepreneurship](https://tcdata360.worldbank.org/stories/tech-entrepreneurship/)
+1.  Contributed to [World Bank: Innovation, Tech & Entrepreneurship](https://tcdata360.worldbank.org/stories/tech-entrepreneurship/)
 1.  [A trivia-viz narrative of the Olympics](https://gramener.com/olympics/)
 1.  [Challenges funded by the Bill & Melinda Gates Foundation](https://gramener.com/playground/dataportraits/bmg)
 1.  [Lionel Messi's shots](https://gramener.com/dataportraits/messi)
@@ -45,7 +45,7 @@ title: About
 1.  [Ben Carson's FB page](https://gramener.com/blog/posts?post=11-12-2015-carsons-facebook-page.md)
 1.  [Most searched Republican candidates on Google](https://gramener.com/blog/posts?post=09-25-2015-google-searches-cnn-debate.md)
 1.  [Hillary Clinton bashing award](https://gramener.com/blog/posts?post=12-16-2015-hillary-bashing-awards-2015.md)
-1.  [We need more women judges](https://gramener.com/assets/storylabs/WeNeedMoreWomenJudges.pdf)
+1.  Contributed to [We need more women judges](https://gramener.com/datacomics/comicsaugmented)
 1.  [To Brexit or not?](https://gramener.com/blog/posts?post=06-25-2016-google-search-trends-brexit.md)
 1.  [Know your investments](https://gramener.com/blog/posts?post=16-09-2015-know-your-investment.md)
 1.  [Wimbledon one-siders](https://gramener.com/blog/posts?post=06-26-2015-wimbledon-one-siders.md)
@@ -80,6 +80,7 @@ title: About
 
 ### Mentions & Recognitions:
 
+1.  [The only way to watch the US Presidential Debate](https://nakeddata.org/2020/10/30/the-only-way-to-watch-the-us-presidential-debate/)
 1.  [My name is Akbar, I'm carrying the wheel](https://nakeddata.org/2019/11/15/my-name-is-akbar-im-carrying-the-wheel/) *by Naked Data*
 1.  [Your data story needs more than data](https://www.juiceanalytics.com/writing/your-data-story-needs-to-be-more-than-data) *by Juice Analytics*
 1.  [2nd place in the CGDV hackathon](https://www.centerforglobaldata.org/visual?id=273)
