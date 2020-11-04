@@ -80,7 +80,7 @@ title: About
 
 ### Mentions & Recognitions:
 
-1.  [The only way to watch the US Presidential Debate](https://nakeddata.org/2020/10/30/the-only-way-to-watch-the-us-presidential-debate/)
+1.  [The only way to watch the US Presidential Debate](https://nakeddata.org/2020/10/30/the-only-way-to-watch-the-us-presidential-debate/) *by Naked Data*
 1.  [My name is Akbar, I'm carrying the wheel](https://nakeddata.org/2019/11/15/my-name-is-akbar-im-carrying-the-wheel/) *by Naked Data*
 1.  [Your data story needs more than data](https://www.juiceanalytics.com/writing/your-data-story-needs-to-be-more-than-data) *by Juice Analytics*
 1.  [2nd place in the CGDV hackathon](https://www.centerforglobaldata.org/visual?id=273)
