@@ -9,15 +9,16 @@ title: About
 
 - [@richielionell](https://twitter.com/richielionell)
 - Work with [Gramener](https://gramener.com/)
-- I create Data Stories using Python , D3.js, Excel &amp; Powerpoint
+- I create Data Stories using Python, D3.js, Gramex, Excel &amp; Powerpoint
 - Cricket Writer
 - Country Gospel music, Hymns
 - Literature, Theatre, Asterix &amp; Obelix, Calvin &amp; Hobbes ... you get the idea
-- One foot in the technology and the other in the arts.
+- One foot in technology and the other in the arts.
 
 
 ### Data Visualization & Storytelling:
 
+1.  [A searchable database of Trump's Sir stories](http://richielionell.github.io/president-trump-sir-stories/)
 1.  Contributing to [Comicgen - the open source comic creator](https://gramener.com/comicgen/)
 1.  [Interactive comic of the Nashville Presidential Debate](https://gramener.com/presidential/nashville-debate)
 1.  [Interactive comic of the Cleveland Presidential Debate](https://gramener.com/presidential/cleveland-debate)
