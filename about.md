@@ -12,7 +12,7 @@ title: About
 - I create Data Stories using Python, D3.js, Gramex, Excel &amp; Powerpoint
 - Cricket Writer
 - Country Gospel music, Hymns
-- Literature, Theatre, Asterix &amp; Obelix, Calvin &amp; Hobbes ... you get the idea
+- Literature, Theatre, Comics, Critical theory
 - One foot in technology and the other in the arts.
 
 
