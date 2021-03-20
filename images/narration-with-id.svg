@@ -325,7 +325,7 @@
     <g
        transform="matrix(0.26458333,0,0,0.26458333,-46.869045,46.779762)"
        clip-path="url(#clip1)"
-       id="happy">
+       id="D" visibility="hidden">
       <g
          clip-path="url(#clip2)"
          id="g5689">
@@ -794,7 +794,7 @@
     <g
        transform="matrix(0.26458333,0,0,0.26458333,-46.931929,47.170552)"
        clip-path="url(#clip11)"
-       id="worried">
+       id="C" visibilty="hidden">
       <g
          clip-path="url(#clip12)"
          id="g5895">
@@ -1309,7 +1309,7 @@
     <g
        transform="matrix(0.26458333,0,0,0.26458333,-46.60446,46.779233)"
        clip-path="url(#clip20)"
-       id="upset">
+       id="B" visibility="hidden">
       <g
          clip-path="url(#clip21)"
          id="g6107">
@@ -1835,7 +1835,7 @@
     <g
        transform="matrix(0.26458333,0,0,0.26458333,-45.902041,48.70196)"
        clip-path="url(#clip25)"
-       id="annoyed">
+       id="A" visibility="hidden">
       <g
          clip-path="url(#clip26)"
          id="g6299">
