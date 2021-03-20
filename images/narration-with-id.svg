@@ -303,7 +303,7 @@
        style="font-weight:400;font-size:8.46666622px;font-family:Calibri, Calibri_MSFontService, sans-serif;stroke-width:0.26458332"
        font-weight="400"
        font-size="32"
-       id="A">The text here <tspan
+       id="A" visibility="hidden">The text here <tspan
    style="font-size:8.46666622px;stroke-width:0.26458332"
    font-size="32"
    x="39.231052"
@@ -2313,7 +2313,7 @@
        style="font-weight:400;font-size:8.46666622px;font-family:Calibri, Calibri_MSFontService, sans-serif;stroke-width:0.26458332"
        font-weight="400"
        font-size="32"
-       id="B">The text here <tspan
+       id="B" visibility="hidden">The text here <tspan
    style="font-size:8.46666622px;stroke-width:0.26458332"
    font-size="32"
    x="38.078461"
@@ -2338,7 +2338,7 @@
        style="font-weight:400;font-size:8.46666622px;font-family:Calibri, Calibri_MSFontService, sans-serif;stroke-width:0.26458332"
        font-weight="400"
        font-size="32"
-       id="C">The text here <tspan
+       id="C" visibility="hidden">The text here <tspan
    style="font-size:8.46666622px;stroke-width:0.26458332"
    font-size="32"
    x="39.193974"
