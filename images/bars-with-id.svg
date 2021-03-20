@@ -5,15 +5,15 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   id="svg8"
+   id="svg7645"
    version="1.1"
-   viewBox="0 0 204.6741 152.55212"
-   height="152.55212mm"
-   width="204.6741mm">
+   viewBox="0 0 194.09077 143.77095"
+   height="143.77095mm"
+   width="194.09077mm">
   <defs
-     id="defs2" />
+     id="defs7639" />
   <metadata
-     id="metadata5">
+     id="metadata7642">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -25,452 +25,452 @@
     </rdf:RDF>
   </metadata>
   <g
-     transform="translate(-1.6064038,-87.751442)"
+     transform="translate(-6.898067,-66.056549)"
      id="layer1">
     <rect
        id="backgorund"
-       y="87.751442"
-       x="1.6064038"
-       height="152.55212"
-       width="204.6741"
-       style="fill:#ffffff;stroke-width:0.25425354" />
+       y="66.056549"
+       x="6.898067"
+       height="143.77095"
+       width="194.09077"
+       style="fill:#ffffff;stroke-width:0.47923648" />
     <rect
-       width="18.916836"
-       height="18.687635"
-       y="198.73312"
-       x="12.030463"
+       width="16.487217"
+       height="16.353945"
+       y="168.31363"
+       x="26.545416"
        id="A"
-       style="fill:#1f77b4;stroke-width:0.25425354" />
+       style="fill:#1f77b4;stroke-width:0.47923648" />
     <rect
-       width="18.916836"
-       height="9.7887621"
-       y="207.63199"
-       x="31.201216"
+       width="16.487217"
+       height="8.5663519"
+       y="176.10123"
+       x="43.510521"
        id="B"
-       style="fill:#1f77b4;stroke-width:0.25425354" />
+       style="fill:#1f77b4;stroke-width:0.47923648" />
     <rect
-       width="18.916836"
-       height="17.797749"
-       y="199.623"
-       x="50.371964"
+       width="16.487217"
+       height="15.575186"
+       y="169.09239"
+       x="60.475628"
        id="C"
-       style="fill:#1f77b4;stroke-width:0.25425354" />
+       style="fill:#1f77b4;stroke-width:0.47923648" />
     <rect
-       width="18.916836"
-       height="118.35503"
-       y="99.065727"
-       x="69.542717"
+       width="16.487217"
+       height="103.57498"
+       y="81.09259"
+       x="77.440735"
        id="D"
-       style="fill:#1f77b4;stroke-width:0.25425354" />
+       style="fill:#1f77b4;stroke-width:0.47923648" />
     <rect
-       width="18.916836"
-       height="2.6696622"
-       y="214.75108"
-       x="88.71347"
-       id="E"
-       style="fill:#1f77b4;stroke-width:0.25425354" />
+       width="16.487217"
+       height="2.3362777"
+       y="182.3313"
+       x="94.405838"
+       id="undefined - E"
+       style="fill:#1f77b4;stroke-width:0.47923648" />
     <rect
-       width="18.916836"
-       height="50.723583"
-       y="166.69717"
-       x="107.88422"
-       id="F"
-       style="fill:#1f77b4;stroke-width:0.25425354" />
+       width="16.487217"
+       height="44.389278"
+       y="140.27831"
+       x="111.37095"
+       id="undefined - F"
+       style="fill:#1f77b4;stroke-width:0.47923648" />
     <rect
-       width="18.916836"
-       height="88.098854"
-       y="129.3219"
-       x="127.05497"
-       id="G"
-       style="fill:#1f77b4;stroke-width:0.25425354" />
+       width="16.487217"
+       height="77.097168"
+       y="107.57041"
+       x="128.33606"
+       id="undefined - G"
+       style="fill:#1f77b4;stroke-width:0.47923648" />
     <rect
-       width="18.916836"
-       height="54.283134"
-       y="163.13762"
-       x="146.22572"
-       id="H"
-       style="fill:#1f77b4;stroke-width:0.25425354" />
+       width="16.487217"
+       height="47.504314"
+       y="137.16325"
+       x="145.30116"
+       id="undefined - H"
+       style="fill:#1f77b4;stroke-width:0.47923648" />
     <rect
-       width="18.916836"
-       height="6.2292118"
-       y="217.42075"
-       x="165.39647"
-       id="I"
-       style="fill:#1f77b4;stroke-width:0.25425354" />
+       width="16.487217"
+       height="5.4513149"
+       y="184.66757"
+       x="162.26627"
+       id="undefined - I"
+       style="fill:#1f77b4;stroke-width:0.47923648" />
     <rect
-       width="18.916836"
-       height="38.26516"
-       y="179.15559"
-       x="184.56721"
-       id="J"
-       style="fill:#1f77b4;stroke-width:0.25425354" />
+       width="16.487217"
+       height="33.486649"
+       y="151.18092"
+       x="179.23137"
+       id="undefined - J"
+       style="fill:#1f77b4;stroke-width:0.47923648" />
     <path
-       id="path3878"
-       d="M 11.903673,217.54788 H 203.8651"
+       id="path7812"
+       d="M 26.307144,184.9072 H 196.43609"
        class="domain"
-       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:none;stroke:currentColor;stroke-width:0.25425354" />
+       style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:none;stroke:currentColor;stroke-width:0.47923648" />
     <g
-       id="g3884"
-       transform="matrix(0.25425355,0,0,0.25425355,21.48888,217.42075)"
+       id="g7818"
+       transform="matrix(0.47923648,0,0,0.47923648,34.789024,184.66758)"
        class="tick"
        style="font-size:10px;font-family:sans-serif;text-anchor:middle;opacity:1;fill:none">
       <line
-         id="line3880"
+         id="line7814"
          y2="6"
          x1="0"
          y1="0"
          x2="0"
          style="stroke:currentColor" />
       <text
-         id="text3882"
+         id="text7816"
          dy="0.70999998em"
          y="9"
          style="fill:currentColor">A</text>
     </g>
     <g
-       id="g3890"
-       transform="matrix(0.25425355,0,0,0.25425355,40.659632,217.42075)"
+       id="g7824"
+       transform="matrix(0.47923648,0,0,0.47923648,51.75413,184.66758)"
        class="tick"
        style="font-size:10px;font-family:sans-serif;text-anchor:middle;opacity:1;fill:none">
       <line
-         id="line3886"
+         id="line7820"
          y2="6"
          x1="0"
          y1="0"
          x2="0"
          style="stroke:currentColor" />
       <text
-         id="text3888"
+         id="text7822"
          dy="0.70999998em"
          y="9"
          style="fill:currentColor">B</text>
     </g>
     <g
-       id="g3896"
-       transform="matrix(0.25425355,0,0,0.25425355,59.830383,217.42075)"
+       id="g7830"
+       transform="matrix(0.47923648,0,0,0.47923648,68.719236,184.66758)"
        class="tick"
        style="font-size:10px;font-family:sans-serif;text-anchor:middle;opacity:1;fill:none">
       <line
-         id="line3892"
+         id="line7826"
          y2="6"
          x1="0"
          y1="0"
          x2="0"
          style="stroke:currentColor" />
       <text
-         id="text3894"
+         id="text7828"
          dy="0.70999998em"
          y="9"
          style="fill:currentColor">C</text>
     </g>
     <g
-       id="g3902"
-       transform="matrix(0.25425355,0,0,0.25425355,79.001134,217.42075)"
+       id="g7836"
+       transform="matrix(0.47923648,0,0,0.47923648,85.684343,184.66758)"
        class="tick"
        style="font-size:10px;font-family:sans-serif;text-anchor:middle;opacity:1;fill:none">
       <line
-         id="line3898"
+         id="line7832"
          y2="6"
          x1="0"
          y1="0"
          x2="0"
          style="stroke:currentColor" />
       <text
-         id="text3900"
+         id="text7834"
          dy="0.70999998em"
          y="9"
          style="fill:currentColor">D</text>
     </g>
     <g
-       id="g3908"
-       transform="matrix(0.25425355,0,0,0.25425355,98.171884,217.42075)"
+       id="g7842"
+       transform="matrix(0.47923648,0,0,0.47923648,102.64945,184.66758)"
        class="tick"
        style="font-size:10px;font-family:sans-serif;text-anchor:middle;opacity:1;fill:none">
       <line
-         id="line3904"
+         id="line7838"
          y2="6"
          x1="0"
          y1="0"
          x2="0"
          style="stroke:currentColor" />
       <text
-         id="text3906"
+         id="text7840"
          dy="0.70999998em"
          y="9"
          style="fill:currentColor">E</text>
     </g>
     <g
-       id="g3914"
-       transform="matrix(0.25425355,0,0,0.25425355,117.34264,217.42075)"
+       id="g7848"
+       transform="matrix(0.47923648,0,0,0.47923648,119.61455,184.66758)"
        class="tick"
        style="font-size:10px;font-family:sans-serif;text-anchor:middle;opacity:1;fill:none">
       <line
-         id="line3910"
+         id="line7844"
          y2="6"
          x1="0"
          y1="0"
          x2="0"
          style="stroke:currentColor" />
       <text
-         id="text3912"
+         id="text7846"
          dy="0.70999998em"
          y="9"
          style="fill:currentColor">F</text>
     </g>
     <g
-       id="g3920"
-       transform="matrix(0.25425355,0,0,0.25425355,136.51339,217.42075)"
+       id="g7854"
+       transform="matrix(0.47923648,0,0,0.47923648,136.57966,184.66758)"
        class="tick"
        style="font-size:10px;font-family:sans-serif;text-anchor:middle;opacity:1;fill:none">
       <line
-         id="line3916"
+         id="line7850"
          y2="6"
          x1="0"
          y1="0"
          x2="0"
          style="stroke:currentColor" />
       <text
-         id="text3918"
+         id="text7852"
          dy="0.70999998em"
          y="9"
          style="fill:currentColor">G</text>
     </g>
     <g
-       id="g3926"
-       transform="matrix(0.25425355,0,0,0.25425355,155.68414,217.42075)"
+       id="g7860"
+       transform="matrix(0.47923648,0,0,0.47923648,153.54477,184.66758)"
        class="tick"
        style="font-size:10px;font-family:sans-serif;text-anchor:middle;opacity:1;fill:none">
       <line
-         id="line3922"
+         id="line7856"
          y2="6"
          x1="0"
          y1="0"
          x2="0"
          style="stroke:currentColor" />
       <text
-         id="text3924"
+         id="text7858"
          dy="0.70999998em"
          y="9"
          style="fill:currentColor">H</text>
     </g>
     <g
-       id="g3932"
-       transform="matrix(0.25425355,0,0,0.25425355,174.85489,217.42075)"
+       id="g7866"
+       transform="matrix(0.47923648,0,0,0.47923648,170.50987,184.66758)"
        class="tick"
        style="font-size:10px;font-family:sans-serif;text-anchor:middle;opacity:1;fill:none">
       <line
-         id="line3928"
+         id="line7862"
          y2="6"
          x1="0"
          y1="0"
          x2="0"
          style="stroke:currentColor" />
       <text
-         id="text3930"
+         id="text7864"
          dy="0.70999998em"
          y="9"
          style="fill:currentColor">I</text>
     </g>
     <g
-       id="g3938"
-       transform="matrix(0.25425355,0,0,0.25425355,194.02564,217.42075)"
+       id="g7872"
+       transform="matrix(0.47923648,0,0,0.47923648,187.47498,184.66758)"
        class="tick"
        style="font-size:10px;font-family:sans-serif;text-anchor:middle;opacity:1;fill:none">
       <line
-         id="line3934"
+         id="line7868"
          y2="6"
          x1="0"
          y1="0"
          x2="0"
          style="stroke:currentColor" />
       <text
-         id="text3936"
+         id="text7870"
          dy="0.70999998em"
          y="9"
          style="fill:currentColor">J</text>
     </g>
     <text
-       id="text3940"
-       style="font-weight:bold;font-size:3.05104256px;font-family:Arial, sans-serif;text-anchor:end;fill:#7b7b7b;stroke-width:0.25425354"
-       y="216.40373"
-       x="203.73798">Category</text>
+       id="text7874"
+       style="font-weight:bold;font-size:5.7508378px;font-family:Arial, sans-serif;text-anchor:end;fill:#7b7b7b;stroke-width:0.47923648"
+       y="182.75064"
+       x="196.19647">Category</text>
     <path
-       id="path3943"
-       d="m 10.251025,235.34563 h 1.652648 V 92.96364 h -1.652648"
+       id="path7877"
+       d="m 23.192107,200.48238 h 3.115037 V 75.880896 h -3.115037"
        class="domain"
-       style="font-size:10px;font-family:sans-serif;text-anchor:end;fill:none;stroke:currentColor;stroke-width:0.25425354" />
+       style="font-size:10px;font-family:sans-serif;text-anchor:end;fill:none;stroke:currentColor;stroke-width:0.47923648" />
     <g
-       id="g3949"
-       transform="matrix(0.25425355,0,0,0.25425355,11.776546,235.34563)"
+       id="g7883"
+       transform="matrix(0.47923648,0,0,0.47923648,26.067526,200.48238)"
        class="tick"
        style="font-size:10px;font-family:sans-serif;text-anchor:end;opacity:1;fill:none">
       <line
-         id="line3945"
+         id="line7879"
          x2="-6"
          x1="0"
          y1="0"
          y2="0"
          style="stroke:currentColor" />
       <text
-         id="text3947"
+         id="text7881"
          dy="0.31999999em"
          x="-9"
          style="fill:currentColor">−20</text>
     </g>
     <g
-       id="g3955"
-       transform="matrix(0.25425355,0,0,0.25425355,11.776546,217.54788)"
+       id="g7889"
+       transform="matrix(0.47923648,0,0,0.47923648,26.067526,184.9072)"
        class="tick"
        style="font-size:10px;font-family:sans-serif;text-anchor:end;opacity:1;fill:none">
       <line
-         id="line3951"
+         id="line7885"
          x2="-6"
          x1="0"
          y1="0"
          y2="0"
          style="stroke:currentColor" />
       <text
-         id="text3953"
+         id="text7887"
          dy="0.31999999em"
          x="-9"
          style="fill:currentColor">0</text>
     </g>
     <g
-       id="g3961"
-       transform="matrix(0.25425355,0,0,0.25425355,11.776546,199.75013)"
+       id="g7895"
+       transform="matrix(0.47923648,0,0,0.47923648,26.067526,169.33201)"
        class="tick"
        style="font-size:10px;font-family:sans-serif;text-anchor:end;opacity:1;fill:none">
       <line
-         id="line3957"
+         id="line7891"
          x2="-6"
          x1="0"
          y1="0"
          y2="0"
          style="stroke:currentColor" />
       <text
-         id="text3959"
+         id="text7893"
          dy="0.31999999em"
          x="-9"
          style="fill:currentColor">20</text>
     </g>
     <g
-       id="g3967"
-       transform="matrix(0.25425355,0,0,0.25425355,11.776546,181.95238)"
+       id="g7901"
+       transform="matrix(0.47923648,0,0,0.47923648,26.067526,153.75682)"
        class="tick"
        style="font-size:10px;font-family:sans-serif;text-anchor:end;opacity:1;fill:none">
       <line
-         id="line3963"
+         id="line7897"
          x2="-6"
          x1="0"
          y1="0"
          y2="0"
          style="stroke:currentColor" />
       <text
-         id="text3965"
+         id="text7899"
          dy="0.31999999em"
          x="-9"
          style="fill:currentColor">40</text>
     </g>
     <g
-       id="g3973"
-       transform="matrix(0.25425355,0,0,0.25425355,11.776546,164.15463)"
+       id="g7907"
+       transform="matrix(0.47923648,0,0,0.47923648,26.067526,138.18164)"
        class="tick"
        style="font-size:10px;font-family:sans-serif;text-anchor:end;opacity:1;fill:none">
       <line
-         id="line3969"
+         id="line7903"
          x2="-6"
          x1="0"
          y1="0"
          y2="0"
          style="stroke:currentColor" />
       <text
-         id="text3971"
+         id="text7905"
          dy="0.31999999em"
          x="-9"
          style="fill:currentColor">60</text>
     </g>
     <g
-       id="g3979"
-       transform="matrix(0.25425355,0,0,0.25425355,11.776546,146.35689)"
+       id="g7913"
+       transform="matrix(0.47923648,0,0,0.47923648,26.067526,122.60645)"
        class="tick"
        style="font-size:10px;font-family:sans-serif;text-anchor:end;opacity:1;fill:none">
       <line
-         id="line3975"
+         id="line7909"
          x2="-6"
          x1="0"
          y1="0"
          y2="0"
          style="stroke:currentColor" />
       <text
-         id="text3977"
+         id="text7911"
          dy="0.31999999em"
          x="-9"
          style="fill:currentColor">80</text>
     </g>
     <g
-       id="g3985"
-       transform="matrix(0.25425355,0,0,0.25425355,11.776546,128.55914)"
+       id="g7919"
+       transform="matrix(0.47923648,0,0,0.47923648,26.067526,107.03127)"
        class="tick"
        style="font-size:10px;font-family:sans-serif;text-anchor:end;opacity:1;fill:none">
       <line
-         id="line3981"
+         id="line7915"
          x2="-6"
          x1="0"
          y1="0"
          y2="0"
          style="stroke:currentColor" />
       <text
-         id="text3983"
+         id="text7917"
          dy="0.31999999em"
          x="-9"
          style="fill:currentColor">100</text>
     </g>
     <g
-       id="g3991"
-       transform="matrix(0.25425355,0,0,0.25425355,11.776546,110.76139)"
+       id="g7925"
+       transform="matrix(0.47923648,0,0,0.47923648,26.067526,91.456082)"
        class="tick"
        style="font-size:10px;font-family:sans-serif;text-anchor:end;opacity:1;fill:none">
       <line
-         id="line3987"
+         id="line7921"
          x2="-6"
          x1="0"
          y1="0"
          y2="0"
          style="stroke:currentColor" />
       <text
-         id="text3989"
+         id="text7923"
          dy="0.31999999em"
          x="-9"
          style="fill:currentColor">120</text>
     </g>
     <g
-       id="g3997"
-       transform="matrix(0.25425355,0,0,0.25425355,11.776546,92.96364)"
+       id="g7931"
+       transform="matrix(0.47923648,0,0,0.47923648,26.067526,75.880896)"
        class="tick"
        style="font-size:10px;font-family:sans-serif;text-anchor:end;opacity:1;fill:none">
       <line
-         id="line3993"
+         id="line7927"
          x2="-6"
          x1="0"
          y1="0"
          y2="0"
          style="stroke:currentColor" />
       <text
-         id="text3995"
+         id="text7929"
          dy="0.31999999em"
          x="-9"
          style="fill:currentColor">140</text>
     </g>
     <text
-       y="92.83651"
-       id="text3999"
-       style="font-weight:bold;font-size:3.05104256px;font-family:Arial, sans-serif;dominant-baseline:hanging;text-anchor:start;fill:#7b7b7b;stroke-width:0.25425354"
+       y="75.641281"
+       id="text7933"
+       style="font-weight:bold;font-size:5.7508378px;font-family:Arial, sans-serif;dominant-baseline:hanging;text-anchor:start;fill:#7b7b7b;stroke-width:0.47923648"
        dominant-baseline="hanging"
-       x="12.79356">Value [sum]</text>
+       x="27.984472">Value [sum]</text>
     <text
-       id="text4004"
-       style="font-weight:bold;font-size:3.05104256px;font-family:Arial, sans-serif;dominant-baseline:hanging;fill:#000000;stroke-width:0.25425354"
-       x="2.6234181"
-       y="88.768456" />
+       id="text7938"
+       style="font-weight:bold;font-size:5.7508378px;font-family:Arial, sans-serif;dominant-baseline:hanging;fill:#000000;stroke-width:0.47923648"
+       x="8.8150129"
+       y="67.973495" />
   </g>
 </svg>
