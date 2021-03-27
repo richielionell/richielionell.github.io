@@ -110,7 +110,7 @@
            style="stroke:currentColor" />
         <text
            id="text2855"
-           style="font-family:gaeguregular;text-anchor:end;opacity:0.9;fill:currentColor"
+           style="font-family:gaeguregular;text-anchor:end;opacity:1.0;fill:currentColor;font-weight:bold"
            transform="rotate(-45,-5,12.071068)"
            dy="0.70999998em"
            y="3">2014</text>
@@ -129,7 +129,7 @@
            style="stroke:currentColor" />
         <text
            id="text2861"
-           style="font-family:gaeguregular;text-anchor:end;opacity:0.9;fill:currentColor"
+           style="font-family:gaeguregular;text-anchor:end;opacity:1.0;fill:currentColor;font-weight:bold"
            transform="rotate(-45,-5,12.071068)"
            dy="0.70999998em"
            y="3">2015</text>
@@ -148,7 +148,7 @@
            style="stroke:currentColor" />
         <text
            id="text2867"
-           style="font-family:gaeguregular;text-anchor:end;opacity:1.0;fill:currentColor"
+           style="font-family:gaeguregular;text-anchor:end;opacity:1.0;fill:currentColor;font-weight:bold"
            transform="rotate(-45,-5,12.071068)"
            dy="0.70999998em"
            y="3">2016</text>
@@ -167,7 +167,7 @@
            style="stroke:currentColor" />
         <text
            id="text2873"
-           style="font-family:gaeguregular;text-anchor:end;opacity:0.9;fill:currentColor"
+           style="font-family:gaeguregular;text-anchor:end;opacity:1.0;fill:currentColor;font-weight:bold"
            transform="rotate(-45,-5,12.071068)"
            dy="0.70999998em"
            y="3">2017</text>
@@ -186,7 +186,7 @@
            style="stroke:currentColor" />
         <text
            id="text2879"
-           style="font-family:gaeguregular;text-anchor:end;opacity:0.9;fill:currentColor"
+           style="font-family:gaeguregular;text-anchor:end;opacity:1.0;fill:currentColor;font-weight:bold"
            transform="rotate(-45,-5,12.071068)"
            dy="0.70999998em"
            y="3">2018</text>
@@ -205,7 +205,7 @@
            style="stroke:currentColor" />
         <text
            id="text2885"
-           style="font-family:gaeguregular;text-anchor:end;opacity:0.9;fill:currentColor"
+           style="font-family:gaeguregular;text-anchor:end;opacity:1.0;fill:currentColor;font-weight:bold"
            transform="rotate(-45,-5,12.071068)"
            dy="0.70999998em"
            y="3">2019</text>
@@ -224,7 +224,7 @@
            style="stroke:currentColor" />
         <text
            id="text2891"
-           style="font-family:gaeguregular;text-anchor:end;opacity:0.9;fill:currentColor"
+           style="font-family:gaeguregular;text-anchor:end;opacity:1.0;fill:currentColor;font-weight:bold"
            transform="rotate(-45,-5,12.071068)"
            dy="0.70999998em"
            y="3">2020</text>
@@ -243,7 +243,7 @@
            style="stroke:currentColor" />
         <text
            id="text2897"
-           style="font-family:gaeguregular;text-anchor:end;opacity:0.9;fill:currentColor"
+           style="font-family:gaeguregular;text-anchor:end;opacity:1.0;fill:currentColor;font-weight:bold"
            transform="rotate(-45,-5,12.071068)"
            dy="0.70999998em"
            y="3">2021</text>
