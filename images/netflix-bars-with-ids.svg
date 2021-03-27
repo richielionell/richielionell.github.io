@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="500.44824mm"
-   height="256.38974mm"
-   viewBox="0 0 500.44824 256.38974"
+   width="300.048mm"
+   height="153.72057mm"
+   viewBox="0 0 300.048 153.72057"
    version="1.1"
    id="svg8"
    sodipodi:docname="netflix-bars-with-ids.svg"
@@ -48,8 +48,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="962.88651"
-     inkscape:cy="585.84847"
+     inkscape:cx="962.88672"
+     inkscape:cy="585.84812"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -78,17 +78,17 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(218.8411,-47.44934)">
+     transform="translate(218.84116,-150.11842)">
     <text
-       y="58.298683"
-       x="-297.99948"
-       style="font-weight:bold;font-size:3.94069839px;font-family:Arial, sans-serif;dominant-baseline:hanging;fill:#000000;stroke-width:0.32839155"
+       y="156.62323"
+       x="-266.30145"
+       style="font-weight:bold;font-size:2.36267829px;font-family:Arial, sans-serif;dominant-baseline:hanging;fill:#000000;stroke-width:0.19688976"
        id="text261" />
     <g
        id="g2901"
        class="xAxisviz0"
        font-size="10"
-       transform="translate(-203.89286,279.24405)"
+       transform="matrix(0.59955851,0,0,0.59955851,-209.87881,289.09283)"
        style="font-size:10px;font-family:sans-serif;text-anchor:middle;fill:none">
       <path
          id="path2851"
@@ -254,7 +254,7 @@
        class="yAxisviz0"
        font-size="10"
        style="font-size:10px;font-family:sans-serif;text-anchor:end;fill:none"
-       transform="translate(-203.89286,49.244048)">
+       transform="matrix(0.59955851,0,0,0.59955851,-209.87881,151.19445)">
       <path
          id="path2903"
          d="M 0.5,230.5 V 0.5"
@@ -390,7 +390,7 @@
     </g>
     <g
        id="g2951"
-       transform="translate(-203.89286,279.24405)"
+       transform="matrix(0.59955851,0,0,0.59955851,-209.87881,289.09283)"
        class="rough-xAxisviz0">
       <path
          id="path2949"
@@ -401,7 +401,7 @@
     <g
        id="g2955"
        class="rough-yAxisviz0"
-       transform="translate(-203.89286,49.244048)">
+       transform="matrix(0.59955851,0,0,0.59955851,-209.87881,151.19445)">
       <path
          id="path2953"
          style="fill:none;stroke:#000000;stroke-width:0.5"
@@ -413,7 +413,7 @@
        attrY="1"
        attrX="2014"
        class="viz0"
-       transform="translate(-203.89286,49.244048)"
+       transform="matrix(0.59955851,0,0,0.59955851,-209.87881,151.19445)"
        style="fill:#999999">
       <path
          id="path2957"
@@ -438,7 +438,7 @@
        attrY="1"
        attrX="2015"
        class="viz0"
-       transform="translate(-203.89286,49.244048)"
+       transform="matrix(0.59955851,0,0,0.59955851,-209.87881,151.19445)"
        style="fill:#999999">
       <path
          id="path2965"
@@ -463,7 +463,7 @@
        attrY="2"
        attrX="2016"
        class="viz0"
-       transform="translate(-203.89286,49.244048)"
+       transform="matrix(0.59955851,0,0,0.59955851,-209.87881,151.19445)"
        style="fill:#999999">
       <path
          id="path2973"
@@ -488,7 +488,7 @@
        attrY="3"
        attrX="2017"
        class="viz0"
-       transform="translate(-203.89286,49.244048)"
+       transform="matrix(0.59955851,0,0,0.59955851,-209.87881,151.19445)"
        style="fill:#999999">
       <path
          id="path2981"
@@ -513,7 +513,7 @@
        attrY="8"
        attrX="2018"
        class="viz0"
-       transform="translate(-203.89286,49.244048)"
+       transform="matrix(0.59955851,0,0,0.59955851,-209.87881,151.19445)"
        style="fill:#999999">
       <path
          id="path2989"
@@ -538,7 +538,7 @@
        attrY="15"
        attrX="2019"
        class="viz0"
-       transform="translate(-203.89286,49.244048)"
+       transform="matrix(0.59955851,0,0,0.59955851,-209.87881,151.19445)"
        style="fill:#999999">
       <path
          id="path2997"
@@ -563,7 +563,7 @@
        attrY="24"
        attrX="2020"
        class="viz0"
-       transform="translate(-203.89286,49.244048)">
+       transform="matrix(0.59955851,0,0,0.59955851,-209.87881,151.19445)">
       <path
          id="path3005"
          style="fill:none;stroke:#87ceeb;stroke-width:0.5"
@@ -587,7 +587,7 @@
        attrY="34"
        attrX="2021"
        class="viz0"
-       transform="translate(-203.89286,49.244048)"
+       transform="matrix(0.59955851,0,0,0.59955851,-209.87881,151.19445)"
        style="fill:#999999">
       <path
          id="path3013"
@@ -609,10 +609,10 @@
     </g>
     <text
        id="text3021"
-       style="font-size:40px;font-family:gaeguregular;text-anchor:middle;opacity:0.8"
+       style="font-size:23.98231125px;font-family:gaeguregular;text-anchor:middle;opacity:0.8;stroke-width:0.59955937"
        class="title"
-       y="24.244047"
-       x="38.607143" />
+       y="136.20547"
+       x="-64.485916" />
   </g>
   <style
      id="style2845"
