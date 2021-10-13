@@ -23,7 +23,7 @@ title: About
 1.  [Interactive comic of the Nashville Presidential Debate](https://gramener.com/presidential/nashville-debate)
 1.  [Interactive comic of the Cleveland Presidential Debate](https://gramener.com/presidential/cleveland-debate)
 1.  [Challenges women face](https://gramener.com/datacomics/wbl)
-1.  [My name is Akbar Khan](https://medium.com/@Gramener/my-name-is-akbar-khan-4b43799240d4)
+1.  Contributed to [My name is Akbar Khan](https://medium.com/@Gramener/my-name-is-akbar-khan-4b43799240d4)
 1.  [Words - a comic dictionary](https://gramener.com/words/)
 1.  Contributed to [World Bank: Innovation, Tech & Entrepreneurship](https://tcdata360.worldbank.org/stories/tech-entrepreneurship/)
 1.  [A trivia-viz narrative of the Olympics](https://gramener.com/olympics/)
