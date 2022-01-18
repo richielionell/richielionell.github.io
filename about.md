@@ -8,13 +8,16 @@ title: About
 </p>
 
 - [@richielionell](https://twitter.com/richielionell)
-- Work with [Gramener](https://gramener.com/)
+- [Work](https://www.linkedin.com/in/richielionell/) with [Gramener](https://gramener.com/)
 - I create Data Stories using Python, D3.js, Gramex, Excel &amp; Powerpoint
 - Cricket Writer
 - Country Gospel music, Hymns
 - Literature, Theatre, Comics, Critical theory
 - One foot in technology and the other in the arts.
 
+### Book:
+
+1. [From Data to Stories](https://gramener.com/from-data-to-stories/)
 
 ### Data Visualization & Storytelling:
 
