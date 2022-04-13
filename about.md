@@ -8,16 +8,19 @@ title: About
 </p>
 
 - [@richielionell](https://twitter.com/richielionell)
-- [Work](https://www.linkedin.com/in/richielionell/) with [Gramener](https://gramener.com/)
-- I create Data Stories using Python, D3.js, Gramex, Excel &amp; Powerpoint
-- Cricket Writer
-- Country Gospel music, Hymns
-- Literature, Theatre, Comics, Critical theory
-- One foot in technology and the other in the arts.
+- [Data Humanist | Storylabs](https://www.linkedin.com/in/richielionell/) at [Gramener](https://gramener.com/)
+- Co-Author of <strong>[From Data to Stories](https://gramener.com/from-data-to-stories/)</strong>
 
-### Book:
+<p>With one foot in technology & the other in the arts, I create data
+stories & mentor people on data storytelling. I also help build products
+that make you fall in love with business reporting.</p>
 
-1. [From Data to Stories](https://gramener.com/from-data-to-stories/)
+### Reviews for 'From Data to Stories':
+
+1. [Data Comics meet cricket data in the irrepressible “Data to Stories”](https://gramener.com/from-data-to-stories/) *by Paul Laughlin*
+1. [From Data to Stories: A superb use of cricket as a teaching method](http://cricmash.com/book-reviews/from-data-to-stories-a-superb-use-of-cricket-as-a-teaching-method) *by Arunabha Sengupta in cricmash.com*
+1. [Eine Buchbesprechung zu "Storytelling with Data Comics"](https://wissendenken.com/visuelle-kommunikation/daten/data-comics/) *by Annette Hexelschneider in wissendenken.com*
+1. [How Can We Use Comics to Tell Data Stories?](https://nightingaledvs.com/how-can-we-use-comics-to-tell-data-stories/) *by Neil Richards in Nightingale - the Journal of the Data Visualization Society*
 
 ### Data Visualization & Storytelling:
 
@@ -74,13 +77,16 @@ title: About
 1.  [Crimes against women](https://gramener.com/mshuddle/demography)
 1.  [Bang for the buck?](https://gramener.com/nba/)
 
-### Publications:
+### Writing:
 
 1. [Use the deductive structure to create data story gifs](https://blog.gramener.com/create-data-story-gifs/)
 1.  [Lessons learned from creating physical data visualizations](https://medium.com/nightingale/lessons-learned-from-creating-physical-data-visualizations-f7dac506f17b)
 1.  [Saying it with gifs](https://blog.gramener.com/how-to-create-gifs-as-stories/)
 1.  [In defense of Excel](https://blog.gramener.com/open-your-excel-application-and-plead-for-forgiveness/)
 1.  [Big data needs you Mr. Shekar](https://gramener.com/blog/posts?post=07-24-2015-big-data-needs-you-mr-shekar.md)
+1.  [Creating Map Stories](https://gramener.com/storylabs-publications/map-stories)
+1.  [Data Comic Story Patterns](https://gramener.com/storylabs-publications/data-comic-story-patterns)
+1.  [Create Comics in Google Sheets using Comicgen](https://gramener.com/storylabs-publications/create-comics-google-sheets-comicgen)
 
 ### Mentions & Recognitions:
 
