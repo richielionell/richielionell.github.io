@@ -7,8 +7,9 @@ title: About
   A sinner saved by the grace of the Lord &amp; Saviour Jesus Christ.
 </p>
 
-- [@richielionell](https://twitter.com/richielionell)
-- [Data Humanist | Storylabs](https://www.linkedin.com/in/richielionell/) at [Gramener](https://gramener.com/)
+
+- [Data Humanist](https://www.linkedin.com/pulse/i-am-data-humanist-richie-lionell/) 
+- Storylabs at [Gramener](https://gramener.com/)
 - Co-Author of <strong>[From Data to Stories](https://gramener.com/from-data-to-stories/)</strong>
 
 <p>With one foot in technology & the other in the arts, I create data
@@ -17,7 +18,7 @@ that make you fall in love with business reporting.</p>
 
 ### Reviews for 'From Data to Stories':
 
-1. [Data Comics meet cricket data in the irrepressible “Data to Stories”](https://gramener.com/from-data-to-stories/) *by Paul Laughlin*
+1. [Data Comics meet cricket data in the irrepressible “Data to Stories”](https://www.customerinsightleader.com/books/data-comics-meet-cricket-data-in-the-irrepressible-data-to-stories/) *by Paul Laughlin in customerinsightleader.com*
 1. [From Data to Stories: A superb use of cricket as a teaching method](http://cricmash.com/book-reviews/from-data-to-stories-a-superb-use-of-cricket-as-a-teaching-method) *by Arunabha Sengupta in cricmash.com*
 1. [Eine Buchbesprechung zu "Storytelling with Data Comics"](https://wissendenken.com/visuelle-kommunikation/daten/data-comics/) *by Annette Hexelschneider in wissendenken.com*
 1. [How Can We Use Comics to Tell Data Stories?](https://nightingaledvs.com/how-can-we-use-comics-to-tell-data-stories/) *by Neil Richards in Nightingale - the Journal of the Data Visualization Society*
